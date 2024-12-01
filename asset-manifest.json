@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNotebook.github.io/static/css/main.87ab02da.css",
+    "main.js": "/iNotebook.github.io/static/js/main.b42e7750.js",
+    "index.html": "/iNotebook.github.io/index.html",
+    "main.87ab02da.css.map": "/iNotebook.github.io/static/css/main.87ab02da.css.map",
+    "main.b42e7750.js.map": "/iNotebook.github.io/static/js/main.b42e7750.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ab02da.css",
+    "static/js/main.b42e7750.js"
+  ]
+}
